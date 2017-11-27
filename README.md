@@ -1,0 +1,1 @@
+This is an inputs instruction of the case study for the submitted manuscript "Optimal Allocation Model for EV Charging Stations Coordinating Investor and User Benefits".
